@@ -1,7 +1,7 @@
 # AI Server ops toolkit
 
 One script that answers the question every admin actually has about
-**[Software Tailor AI Server](https://softwaretailor.com/docs/ai-server/index.htm)**:
+**[Software Tailor AI Server](https://softwaretailor.com/docs/ai-server/)**:
 
 > *"Why can't the other machine connect?"*
 
@@ -100,7 +100,7 @@ can add the rule for you; this script is for scripting it, checking from a clien
 
 ## Learn more
 
-- [AI Server administration](https://softwaretailor.com/docs/ai-server/index.htm)
+- [AI Server administration](https://softwaretailor.com/docs/ai-server/)
 - [ai-server-quickstarts](https://github.com/Software-Tailor/ai-server-quickstarts) — the API in five languages
 - [ai-server-dropin-recipes](https://github.com/Software-Tailor/ai-server-dropin-recipes) — point existing tools at your server
 
